@@ -1,1 +1,4 @@
-# 219/6 Biryukov Ivan
+# 219/6 
+Biryukov
+Ivan
+Praktika
